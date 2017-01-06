@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NorthwindModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="NorthwindEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetOrdersReport" ReturnType="Collection(NorthwindModel.GetOrdersReport_Result)">
+      <Parameter Name="FromDate" Mode="In" Type="DateTime" />
+      <Parameter Name="ToDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="GetOrdersReport_Result">
+    <Property Type="Int32" Name="OrderId" Nullable="false" />
+    <Property Type="DateTime" Name="ShippedDate" Nullable="true" Precision="23" />
+    <Property Type="String" Name="ShipName" Nullable="true" MaxLength="40" />
+    <Property Type="String" Name="ShipAddress" Nullable="true" MaxLength="60" />
+    <Property Type="String" Name="ShipCity" Nullable="true" MaxLength="15" />
+    <Property Type="String" Name="ShipCountry" Nullable="true" MaxLength="15" />
+  </ComplexType>
+</Schema>

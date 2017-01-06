@@ -1,0 +1,15 @@
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\bin\Debug\RDLC_ReportWithParameters_1-6-2017.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\bin\Debug\RDLC_ReportWithParameters_1-6-2017.exe
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\bin\Debug\RDLC_ReportWithParameters_1-6-2017.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\bin\Debug\EntityFramework.dll
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\bin\Debug\EntityFramework.xml
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RDLC_ReportWithParameters_1-6-2017.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RDLC_ReportWithParameters_1_6_2017.Form1.resources
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RDLC_ReportWithParameters_1_6_2017.Properties.Resources.resources
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RDLC_ReportWithParameters_1-6-2017.csproj.GenerateResource.Cache
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RDLC_ReportWithParameters_1-6-2017.exe
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RDLC_ReportWithParameters_1-6-2017.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RdlCompile.cache
+c:\users\mohon\documents\visual studio 2013\Projects\RDLC_ReportWithParameters_1-6-2017\RDLC_ReportWithParameters_1-6-2017\obj\Debug\RdlCompile.compiled
